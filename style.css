@@ -1,3 +1,25 @@
-h1 {
-  color: red;
+body{
+	text-align: center;
+	background: lightgrey;
+	font-family: 'Nanum Myeongjo', serif;
+}
+h1{
+	color:#256E5D;
+	font-size: 40px;
+	text-align: center;
+}
+h2{
+	color: #AB4739;
+	font-size: 35px;
+	text-align: center;
+}
+img{
+	width:500px;
+}
+.photo2{
+	width: 300px;
+}
+.box-blue{
+	background: lightblue;
+	margin: 100px;
 }
